@@ -1,6 +1,6 @@
 'use server';
 import { Resend } from 'resend';
-const resend = new Resend(process.env.RESEND_API_KEY);
+const resend = new Resend('re_Qfs7DPoz_6GrxdSqweKb9yjvV66eFddSL');
 
 export const sendEmail = async formData => {
   const { name, content, email } = Object.fromEntries(formData);
