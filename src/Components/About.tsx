@@ -22,7 +22,7 @@ const About = () => {
         from 1 year ago. For a dew time, I work at SivanLand as SEO specialist.
         I looking for a web development job as backend or frontend developer.
       </p>
-      <p className="text-slate-100">
+      <p className="dark:text-slate-100">
         Some of my project are in my github and also some of them are deployed
         to vercel as this one. I would like to join real project in your company
         and have some more expirence.
