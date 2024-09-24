@@ -18,7 +18,7 @@ const About = () => {
     >
       <Heading title="About Me" />
       <p className="dark:text-slate-100">
-        My name Is ALi Sabet. Iam a junior web developer.i start web devloping
+        My name Is ALi Sabet. Iam a mid-level web developer.i start web devloping
         from 1 year ago. For a dew time, I work at SivanLand as SEO specialist.
         I looking for a web development job as backend or frontend developer.
       </p>
